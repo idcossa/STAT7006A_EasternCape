@@ -449,6 +449,11 @@ section{
     text-align: center;
     margin-top: 10%;
 }
+.refernces{
+    color:#ccc;
+    text-align: center;
+    font-size: 15px;
+}
 
 .footer .share{
     padding:1rem 0;
